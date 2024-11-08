@@ -1,4 +1,5 @@
 <H1>My Posture project</H1>
+<h2>Proposal/About my project</h2>
 <h3>Your Purpose/ Problem/ Issue/ Topic</h3>
 <p>  
 
