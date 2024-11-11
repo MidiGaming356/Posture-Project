@@ -4,9 +4,9 @@
 <p>I will use Teachable Machine AI to improve one’s posture.<p> 
 <h1>Criteria and Constraints</h1>  
      <h3>Criteria: </h3> 
--	<p>Teachable machine’s AI should be able to tell the difference between “good” and “bad” posture at an accuracy of at least 80% </p>
--	<p>It should not take over any physical space or area.</p>
--	<p>It must be easy to use/ understand</p>
+	<p> - Teachable machine’s AI should be able to tell the difference between “good” and “bad” posture at an accuracy of at least 80% </p>
+	<p> - It should not take over any physical space or area.</p>
+	<p> - It must be easy to use/ understand</p>
 <h3>Constraints:</h3>  
--	<p>The AI needs to be created without having to write extensive code - The device needs to be created using “Teachable Machine ™.” - The budget for the project is $99.00. 
+	<p> - The AI needs to be created without having to write extensive code - The device needs to be created using “Teachable Machine ™.” - The budget for the project is $99.00. 
 </p>
